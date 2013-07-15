@@ -1,1 +1,3 @@
-echo "fuckyou"
+<?php
+echo "fuckyou";
+echo "";
