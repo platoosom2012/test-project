@@ -1,2 +1,3 @@
 <?php
-echo "Nothing"
+echo "Nothing" ;
+echo "Type";
